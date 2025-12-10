@@ -1,5 +1,5 @@
 ## About Me.  
-Here are some ideas to get you started:
+Retired State of California. I have been working in It for over 25 years. I have worked in many IT disciplines. 
 
 - 🐶 I’m currently working on DataDog Deployment.
 - 🏈 I’m currently learning DataDog, Ansible, Linux.
